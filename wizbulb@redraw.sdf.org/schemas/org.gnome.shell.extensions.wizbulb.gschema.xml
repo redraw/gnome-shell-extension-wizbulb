@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.wizbulb" path="/org/gnome/shell/extensions/wizbulb/">
+    <!-- See also: https://docs.gtk.org/glib/gvariant-format-strings.html -->
+    <key name="ip" type="s">
+      <default>"192.168.0.176"</default>
+    </key>
+  </schema>
+</schemalist>

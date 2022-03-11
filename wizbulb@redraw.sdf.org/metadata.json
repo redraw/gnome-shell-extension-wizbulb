@@ -1,0 +1,10 @@
+{
+  "name": "WiZ bulb",
+  "description": "Control your WiZ bulb\n\nRequires: jq (sudo apt install jq)",
+  "uuid": "wizbulb@redraw.sdf.org",
+  "url": "https://github.com/redraw/wizbulb-gnome-extension",
+  "shell-version": [
+    "40"
+  ],
+  "version": 2
+}
